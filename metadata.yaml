@@ -1,0 +1,25 @@
+_repo: Unmanned_13081
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13081-coverpage.jpg
+creator:
+  author:
+    agent_name: Oliver, Stephen
+    birthdate: 1950
+    gutenberg_agent_id: '4013'
+    url: http://www.gutenberg.org/2009/agents/4013
+description: ''
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13081'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: Unmanned
+url: http://www.gutenberg.org/ebooks/13081
